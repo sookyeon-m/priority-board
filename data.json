@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "t1",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2691,
+    "subject": "[식권] 쿠폰형 식권 이용내역 웹뷰 페이지 신설",
+    "url": "https://nhnent.dooray.com/project/tasks/4168379332676381451",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "12/5",
+    "memo": "대한항공만이라도 12월 내\n기획) 1.15 (목) 배포 목표 => 1.22 완료"
+  },
+  {
+    "id": "t18",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2770,
+    "subject": "[식권] 메시지 발송형(구. MMS형) 식권 바우처 신규 기획",
+    "url": "https://nhnent.dooray.com/project/tasks/4240884822362851133",
+    "workflowStatus": "개발",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "문숙연",
+    "upperPlanDate": "1/22",
+    "detailPlanDate": "",
+    "memo": "3/31목표 내 완료필요 (비즈사업 전략과제)"
+  },
+  {
+    "id": "t3",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2698,
+    "subject": "[연금공단] 25년 사용분 취소 시 채권 전표 전송 가능 여부 확인 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4221243181675752207",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "12/23",
+    "memo": "완료\n1/14 26년도 사업 첫 포인트 전환 인입\n2/1 정산 데이터, 월정산 전문 등 모니터링 예정"
+  },
+  {
+    "id": "t4",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2681,
+    "subject": "[식권] 비즈플러스 관리자 사이트 > 식권 승인자 등록 관련 개선 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4134288213561362503",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "문숙연(서보람)",
+    "upperPlanDate": "",
+    "detailPlanDate": "11/21",
+    "memo": "완료, 마이그레이션 후 신한DS 이슈 있었으며 원인 파악 및 해결 완료"
+  },
+  {
+    "id": "t5",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2707,
+    "subject": "[대한항공] M5A 규정 변경 요청건",
+    "url": "https://nhnent.dooray.com/project/tasks/4226348785051976869",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "대한항공, 긴급요청 1월 초 적용 희망\n기획) 금주(1.16) 배포 목표"
+  },
+  {
+    "id": "t6",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2715,
+    "subject": "[복지포인트] PSM > 복지포인트(신) > 예치금현황조회 > 예치금 원복 기능 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4225621080714058620",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "1/14(수)",
+    "memo": ""
+  },
+  {
+    "id": "t7",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2719,
+    "subject": "[식권] 병합 식권으로 1매 이하의 금액 결제 시도 시 실패 처리",
+    "url": "https://nhnent.dooray.com/project/tasks/4224879040662515618",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현(안진택)",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t8",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2815,
+    "subject": "[기업복지] 관리자 사이트 내 정보보호 현황화 업데이트 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4248888771010443345",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "정민지",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t9",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2718,
+    "subject": "[비즈플러스] 복지포인트 사용내역 업종 컬럼 추가 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4224034104449612466",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t10",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2709,
+    "subject": "[식권] 식권 쿠폰관리(기업맵핑) > 쿠폰ID에 등록된 사용처 갯수 노출 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4203181539122952245",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연(오혜수)",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t11",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2777,
+    "subject": "[페이코복지몰] 기업구분 API 작성문의",
+    "url": "https://nhnent.dooray.com/project/tasks/4228491572150142574",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "강동하",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t12",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2730,
+    "subject": "[APP-식권] 쿠폰형 식권 이용내역 조회불가 화면 문구 수정 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4251754685439544845",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "안내 문구 픽스 후 배포하면 완료됨"
+  },
+  {
+    "id": "t13",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2713,
+    "subject": "[연금공단] 유효기간 만료 이후 취소 건 발생 시 마일리지 & 비즈에서 중복 회수되는 현상",
+    "url": "https://nhnent.dooray.com/project/tasks/4187934867039664642",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t14",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2765,
+    "subject": "[식권] 이용가맹점관리 > 식당구분 노출 방식 변경 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4213926152041423983",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t15",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2770,
+    "subject": "[쿠폰] 사용가능쿠폰조회API - PAYCO리워드 적립제한여부 항목 추가 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4225458264857866306",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김기흥",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t16",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2862,
+    "subject": "[비즈플러스] 식권 자동지급 주기 옵션 문구 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4274738521808323353",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t17",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2771,
+    "subject": "[연금공단] 26년 사업 준비 관련",
+    "url": "https://nhnent.dooray.com/project/tasks/4225592997981464629",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "2월 데이터 확인 후 완료처리 예정"
+  },
+  {
+    "id": "t2",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2734,
+    "subject": "[쿠폰] 강화쿠폰 관련 쿠폰 서비스 기능 개발 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4209103107510271921",
+    "workflowStatus": "개발",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "최은영",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "<<전략과제>>\n12/22 알파배포 예정"
+  },
+  {
+    "id": "t19",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2802,
+    "subject": "[복지포인트] 한국장학재단_2026년 사업",
+    "url": "https://nhnent.dooray.com/project/tasks/4240855910943194833",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t20",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2684,
+    "subject": "[PRJ 한국장학재단] 교육급여바우처 신청자 모집 연동",
+    "url": "https://nhnent.dooray.com/project/tasks/4177758681118498542",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연/오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "1/8 작성"
+  },
+  {
+    "id": "t21",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2668,
+    "subject": "[쿠폰] 오프라인 취소 시 쿠폰 사용취소 여러건 API 응답 수정요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4165378762384689842",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김기흥",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "현재 실서버 이슈로 빠른 대응 필요."
+  },
+  {
+    "id": "t22",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2771,
+    "subject": "[비즈플러스 웹] 쿠폰형 식권_상세 이용내역 메뉴_엑셀 다운로드 시트 데이터 추가 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4250110414687135001",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "3월 31일 (아시아나, 티웨이)"
+  },
+  {
+    "id": "t1774341000683",
+    "number": 2910,
+    "project": "비즈플러스개발-문의요청",
+    "subject": "[PSM] 대한항공 직원정보 반영 메뉴 신설",
+    "url": "https://nhnent.dooray.com/project/tasks/4295013810550707052",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t23",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2774,
+    "subject": "[비즈플러스 웹] 쿠폰형 식권_직원 식권현황 추가 (식권 매수확인)",
+    "url": "https://nhnent.dooray.com/project/tasks/4214598919505841589",
+    "workflowStatus": "QA",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "정민지",
+    "upperPlanDate": "1/22",
+    "detailPlanDate": "",
+    "memo": "3월 31일 (아시아나, 티웨이)"
+  },
+  {
+    "id": "t24",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2841,
+    "subject": "[쿠폰] PSM > 쿠폰 일괄 등록 강화가능여부 유효성 체크 로직 추가 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4259655374826203780",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김기흥",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "3월 개발착수희망"
+  },
+  {
+    "id": "t25",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2840,
+    "subject": "[식권] 대한항공 국제선 신청 식권(M4A) 개발 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4259536805610685005",
+    "workflowStatus": "상세기획",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연",
+    "upperPlanDate": "2/10",
+    "detailPlanDate": "",
+    "memo": "4월 21일 적용희망 (4월 1주차 개발 리뷰 목표)"
+  },
+  {
+    "id": "t26",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2855,
+    "subject": "[비즈플러스] PSM>청구금액 확인 및 전송 > 청구 내역 취소 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4271335497921538912",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "2/19",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t27",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2816,
+    "subject": "[식권] 포인트형 식권 지급/회수 로직 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/4248908284701050435",
+    "workflowStatus": "상세기획",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "정민지",
+    "upperPlanDate": "1/19(월)",
+    "detailPlanDate": "",
+    "memo": "쿠폰형 식권(아시아나, 티웨이) 비즈웹 개선 건 대응 후 진행 예정"
+  },
+  {
+    "id": "t28",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2762,
+    "subject": "[식권] 수기 결제 기능 개발 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4223537323190625652",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "결제개발/비즈개발 R&R 먼저 검토 필요"
+  },
+  {
+    "id": "t29",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2706,
+    "subject": "[비즈플러스] 식권 QR 결제 씬 버튼명 개선 요청서",
+    "url": "https://nhnent.dooray.com/project/tasks/4190792953652648095",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "유재원",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "결제개발팀 작업 영역\nQR결제수단 확대와 함께 진행"
+  },
+  {
+    "id": "t30",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2861,
+    "subject": "[비즈플러스] 식권 사용처 요청 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4274730515474085545",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "2/23",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t31",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2836,
+    "subject": "[식권] 식권 사용처 조회 지도 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/4258801472090565627",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "2/9",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t32",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2847,
+    "subject": "[비즈플러스 웹] 복지포인트 지급시 최대 유효기간 5년 이내로 제한되게 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4261722201913076714",
+    "workflowStatus": "",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t33",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2910,
+    "subject": "[PSM] 대한항공 직원정보 반영 메뉴 신설",
+    "url": "https://nhnent.dooray.com/project/tasks/4295013810550707052",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t34",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2714,
+    "subject": "[식권] 포인트형식권 예치금 설정 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/4195182495210066825",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t35",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2661,
+    "subject": "[식권] 식권 가맹점 관련 DB 구조 개선 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4162423124364613430",
+    "workflowStatus": "",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t37",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2755,
+    "subject": "[쿠폰] 프로모션 쿠폰 자동 종료처리 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4219135259557873638",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김기흥",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t36",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2697,
+    "subject": "[하이닉스(상품권형) 식권] PFM_환불 등록건에 대한 PSM_주문 상태값 변경 배치 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4185628716126408939",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "운영팀",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "비즈개발작업 일부 필요."
+  },
+  {
+    "id": "t38",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2712,
+    "subject": "[쿠폰] PSM 개선 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4194510880447171451",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김기흥/김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "식권 어드민 동일 이슈 검토 중"
+  },
+  {
+    "id": "t39",
+    "project": "미지정",
+    "number": 0,
+    "subject": "신청하기 식권, 신청사유 입력 기능",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t40",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2790,
+    "subject": "[복지포인트] 회사별 마일리지 세팅 정상 등록 여부 노출 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4236460950744489271",
+    "workflowStatus": "상세기획",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김지은/김민석",
+    "planner": "정민지",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t41",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2792,
+    "subject": "[식권 어드민] 예외가맹점그룹관리 > 엑셀 추출 기능 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4282064192330549637",
+    "workflowStatus": "개발",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김지은",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t42",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2883,
+    "subject": "[비즈플러스] 식권 보증금 환불 요청 기능 추가(서비스 해지 요청)",
+    "url": "https://nhnent.dooray.com/project/tasks/4284358482893479572",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "3/9",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t43",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2892,
+    "subject": "[식권] PSM > 기업복지사업 > 금액형 > 예치금현황관리 > 대량 예치금 충전, 환불 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4102387637098350202",
+    "workflowStatus": "기획완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t44",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2895,
+    "subject": "[비즈플러스] PSM 회사 그룹 설정 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4290104516280699210",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t45",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2882,
+    "subject": "[비즈플러스] 복지포인트 예치금 환불 요청 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4284356368194381789",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "3/9",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t46",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2791,
+    "subject": "[개선요청] 소속기관 중복 허용 여부 설정 변경 이력 로그 추가 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4285056463220168171",
+    "workflowStatus": "개발",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t47",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2893,
+    "subject": "[식권] IOS PAYCO 위젯 개선 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4289367168210235934",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t48",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2889,
+    "subject": "[복지포인트] PAYCO 앱 > 결제탭 > 결제수단 미노출 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4285141766422643482",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "결제개발에서 진행"
+  },
+  {
+    "id": "t49",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2885,
+    "subject": "[개선 요청] 재직 상태 변경 시 소속기관 2차 이메일 인증 초기화 로직 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/4285036397546895317",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t50",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2855,
+    "subject": "[비즈플러스] PSM>청구금액 확인 및 전송 > 청구 내역 취소 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4271335497921538912",
+    "workflowStatus": "상위기획",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "2/19",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t51",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2867,
+    "subject": "[비즈플러스] 넷마블엔투 오더 메뉴판 연결 URL 확인요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4276476985065786175",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t52",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2908,
+    "subject": "[비즈플러스] 예외가맹점 그룹 생성 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4294457779631175638",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t53",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2905,
+    "subject": "[비즈플러스] 관리자 권한 기능 추가 기획",
+    "url": "https://nhnent.dooray.com/project/tasks/4292369664187360390",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t54",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2784,
+    "subject": "[식권] 식권 마스터 가격 변경 시 사용조건/혜택내용 선택적 자동 반영 기능 개선 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4229954657228766286",
+    "workflowStatus": "",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t55",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2631,
+    "subject": "[PAYCO APP] 식권 결제 바코드 UI 개선 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4138521281432360829",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t56",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2907,
+    "subject": "[비즈플러스] PSM 업종 제한 입력 방식 변경 검토 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4294442398970875471",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t57",
+    "project": "PAYCO핀테크개발-개발ing",
+    "number": 1350,
+    "subject": "[개발요청-시스템기술팀] 결제 취소 시에 결제 -> 카프카로 데이터 적재 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3800269092561507257",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "안진택",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t58",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2789,
+    "subject": "[쿠폰형 식권] 쿠폰형 식권 사용 불가 시 내 주변 사용처 배너 노출 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4256075580678651079",
+    "workflowStatus": "",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t59",
+    "project": "미지정",
+    "number": 0,
+    "subject": "넷마블 수기 등록 자동화 (전표 전송 어드민 생성)",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t60",
+    "project": "미지정",
+    "number": 0,
+    "subject": "대한항공 위탁식당 사용내역 처리 변경",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t61",
+    "project": "미지정",
+    "number": 0,
+    "subject": "쿠폰/식권 가맹점목록 복사 기능",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t62",
+    "project": "미지정",
+    "number": 0,
+    "subject": "식권 바코드 노출 방식 변경",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t63",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1773,
+    "subject": "[식권] 관리자사이트 > 이용가맹점 가맹점 상태에 따른 노출 수정 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3610881340240488581",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t64",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2479,
+    "subject": "[PAYCO쿠폰] 쿠폰 일괄 회수/ 식권 임직원 일괄 지급 기능 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4050955423043224624",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "강주희(운영)",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "사업팀 요건 정의 중"
+  },
+  {
+    "id": "t65",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2258,
+    "subject": "[식권] psm > 기업별 현금 영수증 발행 집계 어드민 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/3891414113682178864",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "2024년 등록"
+  },
+  {
+    "id": "t66",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 384,
+    "subject": "[비즈웹] 기업 관리자 권한 부여 기능 개발 건",
+    "url": "https://nhnent.dooray.com/project/tasks/3478550287274982430",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "위세이",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "2025년 1분기"
+  },
+  {
+    "id": "t67",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 385,
+    "subject": "[비즈/공통] 식권/복지포인트 계약 해지 기업의 데이터 삭제 및 기업 관리자 접근불가 처리 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3479055638001182477",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "위세이",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "2025년 1분기"
+  },
+  {
+    "id": "t68",
+    "project": "미지정",
+    "number": 0,
+    "subject": "고정바코드(바우처) 생성 제한 수량 확대",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "안진택",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t69",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2065,
+    "subject": "[식권] 식권 maxAmount 파라미터 전송 정보 변경",
+    "url": "https://nhnent.dooray.com/project/tasks/3771819911916253897",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "작업 포함."
+  },
+  {
+    "id": "t70",
+    "project": "미지정",
+    "number": 0,
+    "subject": "화면 노출용 온/오프라인 가맹점 구분값 확인",
+    "url": "",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "개발팀 요청사항"
+  },
+  {
+    "id": "t71",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 381,
+    "subject": "[복지포인트] 복지포인트 신규 입사자 자동 지급 기능 개발 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/3433327286324316345",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "장학재단 이후 (기획 식권기능 포함하여 수정)"
+  },
+  {
+    "id": "t72",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1281,
+    "subject": "[복지포인트] 업종제한(positive 방식) 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/3404311679032705925",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "체육공단 / 보류"
+  },
+  {
+    "id": "t73",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1508,
+    "subject": "(복지포인트) 복지포인트 지급/회수 API 개발요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3488435351145115242",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t74",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 386,
+    "subject": "[BIZ공통] 비즈사이트 내 정산 관리 영역 추가 요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/3503650386812930192",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t75",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1523,
+    "subject": "[BIZ공통] 오류 알림 메일 재정의 검토요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3492785179739075691",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "사업",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t76",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 382,
+    "subject": "[비즈 웹] 칼럼 내 내림차/오름차 순 정렬 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/3448783614132139192",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "위세이",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "마크업 완료상태"
+  },
+  {
+    "id": "t77",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1372,
+    "subject": "[비즈/공통] 비즈사이트>직원관리> 그룹사 직원 소속 변경 기능 신설 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/3445068202346454966",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "위세이",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "5월"
+  },
+  {
+    "id": "t78",
+    "project": "기업복지사업파트(구-비즈사업팀)",
+    "number": 387,
+    "subject": "[식권] 사용할 수 없는 가맹점에서 승인 시도 시 PUSH 발송 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/3503656683812255045",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "안진택",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t79",
+    "project": "비즈플러스개발-sustaining",
+    "number": 1763,
+    "subject": "장애 대응 관리 항목",
+    "url": "https://nhnent.dooray.com/project/tasks/3513694817177317061",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t80",
+    "project": "비즈플러스개발-sustaining",
+    "number": 1767,
+    "subject": "BIZ-COUPON-GIVE-JOB 개선",
+    "url": "https://nhnent.dooray.com/project/tasks/3586227776914225992",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
+    "id": "t81",
+    "project": "비즈플러스개발-문의요청",
+    "number": 1631,
+    "subject": "[식권] 포인트형 식권 관련 동시성 이슈 로직 수정",
+    "url": "https://nhnent.dooray.com/project/tasks/3529726953931434501",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "안진택",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "개발 요청사항"
+  }
+]
