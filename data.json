@@ -464,22 +464,6 @@
     "memo": ""
   },
   {
-    "id": "t29",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2706,
-    "subject": "[비즈플러스] 식권 QR 결제 씬 버튼명 개선 요청서",
-    "url": "https://nhnent.dooray.com/project/tasks/4190792953652648095",
-    "workflowStatus": "대기",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "심수현",
-    "planner": "유재원",
-    "upperPlanDate": "",
-    "detailPlanDate": "",
-    "memo": "결제개발팀 작업 영역\nQR결제수단 확대와 함께 진행"
-  },
-  {
     "id": "t30",
     "project": "비즈플러스개발-문의요청",
     "number": 2861,
@@ -526,6 +510,22 @@
     "upperPlanDate": "",
     "detailPlanDate": "",
     "memo": ""
+  },
+  {
+    "id": "t29",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2706,
+    "subject": "[비즈플러스] 식권 QR 결제 씬 버튼명 개선 요청서",
+    "url": "https://nhnent.dooray.com/project/tasks/4190792953652648095",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "유재원",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "결제개발팀 작업 영역\nQR결제수단 확대와 함께 진행"
   },
   {
     "id": "t33",
