@@ -384,6 +384,22 @@
     "memo": "4월 21일 적용희망 (4월 1주차 개발 리뷰 목표)"
   },
   {
+    "id": "t26",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2855,
+    "subject": "[비즈플러스] PSM>청구금액 확인 및 전송 > 청구 내역 취소 기능 추가",
+    "url": "https://nhnent.dooray.com/project/tasks/4271335497921538912",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김동현",
+    "planner": "",
+    "upperPlanDate": "2/19",
+    "detailPlanDate": "",
+    "memo": ""
+  },
+  {
     "id": "t20",
     "project": "비즈플러스개발-문의요청",
     "number": 2684,
@@ -414,22 +430,6 @@
     "upperPlanDate": "",
     "detailPlanDate": "",
     "memo": "결제개발/비즈개발 R&R 먼저 검토 필요"
-  },
-  {
-    "id": "t26",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2855,
-    "subject": "[비즈플러스] PSM>청구금액 확인 및 전송 > 청구 내역 취소 기능 추가",
-    "url": "https://nhnent.dooray.com/project/tasks/4271335497921538912",
-    "workflowStatus": "대기",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "김동현",
-    "planner": "",
-    "upperPlanDate": "2/19",
-    "detailPlanDate": "",
-    "memo": ""
   },
   {
     "id": "t27",
