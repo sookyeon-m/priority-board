@@ -304,22 +304,6 @@
     "memo": ""
   },
   {
-    "id": "t20",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2684,
-    "subject": "[PRJ 한국장학재단] 교육급여바우처 신청자 모집 연동",
-    "url": "https://nhnent.dooray.com/project/tasks/4177758681118498542",
-    "workflowStatus": "대기",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "심수현",
-    "planner": "문숙연/오혜수",
-    "upperPlanDate": "",
-    "detailPlanDate": "",
-    "memo": "1/8 작성"
-  },
-  {
     "id": "t21",
     "project": "비즈플러스개발-문의요청",
     "number": 2668,
@@ -336,22 +320,6 @@
     "memo": "현재 실서버 이슈로 빠른 대응 필요."
   },
   {
-    "id": "t22",
-    "project": "비즈플러스개발-sustaining",
-    "number": 2771,
-    "subject": "[비즈플러스 웹] 쿠폰형 식권_상세 이용내역 메뉴_엑셀 다운로드 시트 데이터 추가 요청",
-    "url": "https://nhnent.dooray.com/project/tasks/4250110414687135001",
-    "workflowStatus": "완료",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "심수현",
-    "planner": "오혜수",
-    "upperPlanDate": "",
-    "detailPlanDate": "",
-    "memo": "3월 31일 (아시아나, 티웨이)"
-  },
-  {
     "id": "t1774341000683",
     "number": 2910,
     "project": "비즈플러스개발-문의요청",
@@ -366,6 +334,22 @@
     "upperPlanDate": "",
     "detailPlanDate": "",
     "memo": ""
+  },
+  {
+    "id": "t22",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2771,
+    "subject": "[비즈플러스 웹] 쿠폰형 식권_상세 이용내역 메뉴_엑셀 다운로드 시트 데이터 추가 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4250110414687135001",
+    "workflowStatus": "완료",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "3월 31일 (아시아나, 티웨이)"
   },
   {
     "id": "t23",
@@ -414,6 +398,22 @@
     "upperPlanDate": "2/10",
     "detailPlanDate": "",
     "memo": "4월 21일 적용희망 (4월 1주차 개발 리뷰 목표)"
+  },
+  {
+    "id": "t20",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2684,
+    "subject": "[PRJ 한국장학재단] 교육급여바우처 신청자 모집 연동",
+    "url": "https://nhnent.dooray.com/project/tasks/4177758681118498542",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "문숙연/오혜수",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "1/8 작성"
   },
   {
     "id": "t28",
