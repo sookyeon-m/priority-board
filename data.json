@@ -272,20 +272,20 @@
     "memo": "2월 데이터 확인 후 완료처리 예정"
   },
   {
-    "id": "t21",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2668,
-    "subject": "[쿠폰] 오프라인 취소 시 쿠폰 사용취소 여러건 API 응답 수정요청의 건",
-    "url": "https://nhnent.dooray.com/project/tasks/4165378762384689842",
-    "workflowStatus": "대기",
+    "id": "t18",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2770,
+    "subject": "[식권] 메시지 발송형(구. MMS형) 식권 바우처 신규 기획",
+    "url": "https://nhnent.dooray.com/project/tasks/4240884822362851133",
+    "workflowStatus": "개발",
     "displayTags": [
-      "쿠폰"
+      "비즈플러스"
     ],
-    "requester": "김기흥",
-    "planner": "",
-    "upperPlanDate": "",
+    "requester": "김민석",
+    "planner": "문숙연",
+    "upperPlanDate": "1/22",
     "detailPlanDate": "",
-    "memo": "현재 실서버 이슈로 빠른 대응 필요."
+    "memo": "3/31목표 내 완료필요 (비즈사업 전략과제)"
   },
   {
     "id": "t19",
@@ -304,20 +304,20 @@
     "memo": ""
   },
   {
-    "id": "t18",
-    "project": "비즈플러스개발-sustaining",
-    "number": 2770,
-    "subject": "[식권] 메시지 발송형(구. MMS형) 식권 바우처 신규 기획",
-    "url": "https://nhnent.dooray.com/project/tasks/4240884822362851133",
-    "workflowStatus": "개발",
+    "id": "t21",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2668,
+    "subject": "[쿠폰] 오프라인 취소 시 쿠폰 사용취소 여러건 API 응답 수정요청의 건",
+    "url": "https://nhnent.dooray.com/project/tasks/4165378762384689842",
+    "workflowStatus": "대기",
     "displayTags": [
-      "비즈플러스"
+      "쿠폰"
     ],
-    "requester": "김민석",
-    "planner": "문숙연",
-    "upperPlanDate": "1/22",
+    "requester": "김기흥",
+    "planner": "",
+    "upperPlanDate": "",
     "detailPlanDate": "",
-    "memo": "3/31목표 내 완료필요 (비즈사업 전략과제)"
+    "memo": "현재 실서버 이슈로 빠른 대응 필요."
   },
   {
     "id": "t23",
