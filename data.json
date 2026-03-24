@@ -16,20 +16,20 @@
     "memo": "대한항공만이라도 12월 내\n기획) 1.15 (목) 배포 목표 => 1.22 완료"
   },
   {
-    "id": "t18",
-    "project": "비즈플러스개발-sustaining",
-    "number": 2770,
-    "subject": "[식권] 메시지 발송형(구. MMS형) 식권 바우처 신규 기획",
-    "url": "https://nhnent.dooray.com/project/tasks/4240884822362851133",
+    "id": "t2",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2734,
+    "subject": "[쿠폰] 강화쿠폰 관련 쿠폰 서비스 기능 개발 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4209103107510271921",
     "workflowStatus": "개발",
     "displayTags": [
       "비즈플러스"
     ],
-    "requester": "김민석",
-    "planner": "문숙연",
-    "upperPlanDate": "1/22",
+    "requester": "최은영",
+    "planner": "",
+    "upperPlanDate": "",
     "detailPlanDate": "",
-    "memo": "3/31목표 내 완료필요 (비즈사업 전략과제)"
+    "memo": "<<전략과제>>\n12/22 알파배포 예정"
   },
   {
     "id": "t3",
@@ -272,20 +272,20 @@
     "memo": "2월 데이터 확인 후 완료처리 예정"
   },
   {
-    "id": "t2",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2734,
-    "subject": "[쿠폰] 강화쿠폰 관련 쿠폰 서비스 기능 개발 요청",
-    "url": "https://nhnent.dooray.com/project/tasks/4209103107510271921",
+    "id": "t18",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2770,
+    "subject": "[식권] 메시지 발송형(구. MMS형) 식권 바우처 신규 기획",
+    "url": "https://nhnent.dooray.com/project/tasks/4240884822362851133",
     "workflowStatus": "개발",
     "displayTags": [
       "비즈플러스"
     ],
-    "requester": "최은영",
-    "planner": "",
-    "upperPlanDate": "",
+    "requester": "김민석",
+    "planner": "문숙연",
+    "upperPlanDate": "1/22",
     "detailPlanDate": "",
-    "memo": "<<전략과제>>\n12/22 알파배포 예정"
+    "memo": "3/31목표 내 완료필요 (비즈사업 전략과제)"
   },
   {
     "id": "t19",
