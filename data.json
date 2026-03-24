@@ -320,20 +320,20 @@
     "memo": "현재 실서버 이슈로 빠른 대응 필요."
   },
   {
-    "id": "t1774341000683",
-    "number": 2910,
-    "project": "비즈플러스개발-문의요청",
-    "subject": "[PSM] 대한항공 직원정보 반영 메뉴 신설",
-    "url": "https://nhnent.dooray.com/project/tasks/4295013810550707052",
-    "workflowStatus": "대기",
+    "id": "t23",
+    "project": "비즈플러스개발-sustaining",
+    "number": 2774,
+    "subject": "[비즈플러스 웹] 쿠폰형 식권_직원 식권현황 추가 (식권 매수확인)",
+    "url": "https://nhnent.dooray.com/project/tasks/4214598919505841589",
+    "workflowStatus": "QA",
     "displayTags": [
       "비즈플러스"
     ],
     "requester": "심수현",
-    "planner": "",
-    "upperPlanDate": "",
+    "planner": "정민지",
+    "upperPlanDate": "1/22",
     "detailPlanDate": "",
-    "memo": ""
+    "memo": "3월 31일 (아시아나, 티웨이)"
   },
   {
     "id": "t22",
@@ -348,22 +348,6 @@
     "requester": "심수현",
     "planner": "오혜수",
     "upperPlanDate": "",
-    "detailPlanDate": "",
-    "memo": "3월 31일 (아시아나, 티웨이)"
-  },
-  {
-    "id": "t23",
-    "project": "비즈플러스개발-sustaining",
-    "number": 2774,
-    "subject": "[비즈플러스 웹] 쿠폰형 식권_직원 식권현황 추가 (식권 매수확인)",
-    "url": "https://nhnent.dooray.com/project/tasks/4214598919505841589",
-    "workflowStatus": "QA",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "심수현",
-    "planner": "정민지",
-    "upperPlanDate": "1/22",
     "detailPlanDate": "",
     "memo": "3월 31일 (아시아나, 티웨이)"
   },
@@ -462,6 +446,22 @@
     "upperPlanDate": "1/19(월)",
     "detailPlanDate": "",
     "memo": "쿠폰형 식권(아시아나, 티웨이) 비즈웹 개선 건 대응 후 진행 예정"
+  },
+  {
+    "id": "t1774341000683",
+    "number": 2910,
+    "project": "비즈플러스개발-문의요청",
+    "subject": "[PSM] 대한항공 직원정보 반영 메뉴 신설",
+    "url": "https://nhnent.dooray.com/project/tasks/4295013810550707052",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "심수현",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": ""
   },
   {
     "id": "t29",
