@@ -416,6 +416,22 @@
     "memo": "4월 21일 적용희망 (4월 1주차 개발 리뷰 목표)"
   },
   {
+    "id": "t28",
+    "project": "비즈플러스개발-문의요청",
+    "number": 2762,
+    "subject": "[식권] 수기 결제 기능 개발 요청",
+    "url": "https://nhnent.dooray.com/project/tasks/4223537323190625652",
+    "workflowStatus": "대기",
+    "displayTags": [
+      "비즈플러스"
+    ],
+    "requester": "김민석",
+    "planner": "",
+    "upperPlanDate": "",
+    "detailPlanDate": "",
+    "memo": "결제개발/비즈개발 R&R 먼저 검토 필요"
+  },
+  {
     "id": "t26",
     "project": "비즈플러스개발-문의요청",
     "number": 2855,
@@ -446,22 +462,6 @@
     "upperPlanDate": "1/19(월)",
     "detailPlanDate": "",
     "memo": "쿠폰형 식권(아시아나, 티웨이) 비즈웹 개선 건 대응 후 진행 예정"
-  },
-  {
-    "id": "t28",
-    "project": "비즈플러스개발-문의요청",
-    "number": 2762,
-    "subject": "[식권] 수기 결제 기능 개발 요청",
-    "url": "https://nhnent.dooray.com/project/tasks/4223537323190625652",
-    "workflowStatus": "대기",
-    "displayTags": [
-      "비즈플러스"
-    ],
-    "requester": "김민석",
-    "planner": "",
-    "upperPlanDate": "",
-    "detailPlanDate": "",
-    "memo": "결제개발/비즈개발 R&R 먼저 검토 필요"
   },
   {
     "id": "t29",
